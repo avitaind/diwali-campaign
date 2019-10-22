@@ -1,0 +1,50 @@
+@media only screen and (max-width: 600px) {
+
+    .alert-heading{
+        margin-top: 75px;
+        font-size: 18px;
+    }
+    img.logo{
+        width: 200px!important;
+        height: 200px!important;
+        margin: 150px auto 25px !important;
+    }
+    h4{
+        font-size: 14px;
+    }
+
+    p{
+        text-align: center;
+        margin: 5%;
+        font-size: 11px;
+    }
+    .btn-primary{
+        width: 250px;
+        margin:2% 5% !important;
+
+    }
+    .main-logo{
+        margin: 8%!important;
+    }
+}
+
+
+    .alert-heading{
+        margin-top: 25px!important;
+    }
+
+.steps-heading{
+    text-align: left;
+    font-weight: 600;
+}
+.bold-heading{
+ margin-top: 20px;
+}
+.main-logo{
+margin: 5%;
+}
+
+.desclimer{
+    text-align: center;
+    margin-top: 5%;
+}
