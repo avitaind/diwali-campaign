@@ -82,7 +82,7 @@ class DiwaliCampaignController extends Controller
     });
 
 	    //return redirect()->back()->with('success', 'Thank you for your submission . You shall receive a confirmation mail shortly');
-        return redirect("/")->back()->with('message', 'Thank you for your submission . You shall receive a confirmation mail shortly');
+        return redirect('/')->back()->with('message', 'Thank you for your submission . You shall receive a confirmation mail shortly');
 
 }
 
