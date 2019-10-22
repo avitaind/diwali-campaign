@@ -38,7 +38,7 @@
     font-weight: 600;
 }
 .bold-heading{
- margin-top: 20px;
+ margin: 20px 0px;
 }
 .main-logo{
 margin: 5%;
@@ -47,4 +47,33 @@ margin: 5%;
 .desclimer{
     text-align: center;
     margin-top: 5%;
+}
+/*Social Media*/
+.fa {
+    font-size: 23px !important;
+    padding: 8px 14px 10px 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color: #fff;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+
+}
+.fa-instagram {
+    background: #E4405F;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
 }

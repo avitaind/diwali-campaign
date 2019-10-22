@@ -32,6 +32,10 @@
 
                 </table>
 
+                <a href="https://www.facebook.com/AvitaIndia/" class="fa fa-facebook" aria-hidden="true"></a>
+                <a href="https://twitter.com/AvitaIndia" class="fa fa-twitter" aria-hidden="true"></a>
+                <a href="https://www.instagram.com/avitaind/" class="fa fa-instagram" aria-hidden="true"></a>
+
 
             </div>
 
@@ -148,6 +152,8 @@
             </div>
         </div>
     </div>
+
+
      <h2 class="desclimer"><strong>Disclaimer</strong></h3>
 <hr>
      <p class="product-statement-list" style="text-align:center; margin:2%;">

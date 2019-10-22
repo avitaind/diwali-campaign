@@ -7,8 +7,8 @@ php:
     - unused_use
   finder:
     not-name:
-      - server.php
-      - server.php
+      - index.php
+      - index.php
 js:
   finder:
     not-name:
