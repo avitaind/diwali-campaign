@@ -148,7 +148,7 @@
             </div>
         </div>
     </div>
-     <h2 class="desclimer"><strong>Desclimer </strong></h3>
+     <h2 class="desclimer"><strong>Disclaimer</strong></h3>
 <hr>
      <p class="product-statement-list" style="text-align:center; margin:2%;">
          Winners are selected through an auto-generated process by our systems. No giveaways are affiliated in any way with the dealerships or associated with any organizations related to the products mentioned in the giveaway. Winners will be notified through email.
