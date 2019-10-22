@@ -72,11 +72,11 @@
                                             </ul>
                                         </div>
                                     @endif
-					@if(session()->has('message'))
- 					   <div class="alert alert-success">
- 				       {{ session()->get('message') }}
-    						</div>
-					@endif
+                                        @if(session()->has('message'))
+                                            <div class="alert alert-success">
+                                                {{ session()->get('message') }}
+                                            </div>
+                                        @endif
                                      <form action="{{ route('diwalicampaign.store') }}" method="POST" role="form" enctype="multipart/form-data">
                                         @csrf
                                         <div class="form-group row">
