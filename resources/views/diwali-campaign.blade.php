@@ -152,7 +152,7 @@
 <hr>
      <p class="product-statement-list" style="text-align:center; margin:2%;">
          Winners are selected through an auto-generated process by our systems. No giveaways are affiliated in any way with the dealerships or associated with any organizations related to the products mentioned in the giveaway. Winners will be notified through email.
-         The rules of the contest are the behest of the organizer and not following them will result in immediate disqualification. Winners are entitled to their prizes and will receive the said items in 15 days, unless they are out of stock, in that case the prizes
+         The rules of the contest are at the behest of the organizer and not following them will result in immediate disqualification. Winners are entitled to their prizes and will receive the said items in 15 days, unless they are out of stock, in that case the prizes
          will be disbursed upon restocking. All products shown are for illustration purpose only. Actual product may vary. Offer valid from 21st   October 2019 till 31st October 2019. Terms and Conditions apply.
      </p>
  </div>
