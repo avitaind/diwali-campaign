@@ -18,7 +18,8 @@ class CreateDiwaliCampaignTable extends Migration
             $table->string('name');
             $table->string('email');
             $table->integer('phone');
-            $table->text('address');
+            $table->text('address1');
+            $table->text('address2');
             $table->integer('pin');
             $table->text('invoice_no');
             $table->string('invoice_image')->nullable();
@@ -37,3 +38,4 @@ class CreateDiwaliCampaignTable extends Migration
         Schema::dropIfExists('diwali_campaign_');
     }
 }
+
